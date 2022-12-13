@@ -6,7 +6,7 @@ Este aplicativo foi construído para fins didáticos, apenas para conhecimento e
 ## Configuração do projeto
 Ele pode ser baixado conforme abaixo:
 ```sh
-$ git clone https://github.com/SamuelDevMobile/iOS_Carangas.git
+$ git clone https://github.com/SamuelDevMobile/iOS_VideoGame.git
 ```
 Abra-o no seu Xcode
 
